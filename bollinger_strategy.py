@@ -1,4 +1,3 @@
-"""MC2-P2: Bollinger Strategy."""
 
 import pandas as pd
 import numpy as np
